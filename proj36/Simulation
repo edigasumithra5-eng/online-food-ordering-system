@@ -1,0 +1,54 @@
+javac OnlineFoodOrderingSystem.java
+java OnlineFoodOrderingSystem
+1 — Main Menu
+==========================================
+       ONLINE FOOD ORDERING SYSTEM
+==========================================
+
+1. Display Menu
+2. Add Food
+3. View Order
+4. Checkout
+5. Exit
+
+Enter your choice:
+Step 2 — Display Food Menu
+==========================================
+             FOOD MENU
+==========================================
+ID    Food Item                 Price
+------------------------------------------
+1     Pizza                     ₹250.00
+2     Burger                    ₹120.00
+3     Sandwich                  ₹100.00
+4     Pasta                     ₹180.00
+5     Biryani                   ₹220.00
+6     French Fries               ₹90.00
+7     Soft Drink                 ₹60.00
+==========================================
+Step 3 — Add Food
+Enter Food ID: 1
+Enter Quantity: 2
+
+Pizza added to your order.
+Step 4 — View Order
+==========================================
+              YOUR ORDER
+==========================================
+Pizza                x2  ₹500.00
+Biryani              x1  ₹220.00
+------------------------------------------
+Subtotal: ₹720.00
+Step 5 — Checkout
+==========================================
+             FINAL BILL
+==========================================
+Pizza                x2  ₹500.00
+Biryani              x1  ₹220.00
+------------------------------------------
+Subtotal       : ₹720.00
+Discount       : ₹72.00
+Final Amount   : ₹648.00
+==========================================
+       THANK YOU FOR YOUR ORDER!
+==========================================
